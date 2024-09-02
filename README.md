@@ -13,6 +13,9 @@ As stacks necessárias para atender o teste para a vaga fullstack.
 - Implementar página conforme protótipo
 - Utilizando uma framework reativa (React, Vue)
 - CSS responsivo, mobile first.
+
+![Tela a serem implementadas](source/screens/screens.gif)
+
 ## Desejável (diferencial/opcional)
 - API simples para listagem de eventos ativos.
 - Elencar os campos passíveis a índice
