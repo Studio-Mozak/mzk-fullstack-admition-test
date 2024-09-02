@@ -12,7 +12,7 @@ As stacks necessárias para atender o teste para a vaga fullstack.
 ## Frontend
 - Implementar página conforme protótipo
 - Utilizando uma framework reativa (React, Vue)
-- CSS responsivo, mobile first.
+- Telas responsivas
 
 #### Telas em anexo (source)
 ![Tela a serem implementadas](source/screens/screens.gif)
